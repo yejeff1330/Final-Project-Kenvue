@@ -1,0 +1,17 @@
+How are you going to approach the problem(abstract)? 
+	By looking at the needstates (1-5) that are most lacking in sales, and then comparing sales numbers to inventory and trade spend. We can then draw averages and ratios between the different metrics that we then use to see which need states are falling behind and need to be focused on. 
+	When approaching the issue, we will first organize the data (ex. Finding averages, variance, deviation, etc in data sets) which we can then use to compare different need states using data visualization. From here, we can see which need states are using up more resources and not selling as well,  or vice versa. Then we can recommend which need states to promote during what seasons and how to allocate the trade spend. This will help us create a go-to-market strategy, as our recommendations will be informed from the data. 
+
+Who is in your group, and what is the division of labour? 
+	The group consists of Jeff Ye and Yousuf Zaidi, division of labour will be split tasks such as, data collection/cleaning, creating scripts, research/analysis, and creating visualization/presentation. Jeff will be doing data collection/cleaning and creating the visualization, while Yousuf will create scripts and research/analysis on the topic. There will likely be crossover in each part. 
+
+Which data set will you use? 
+	In order to have a total analysis, we will likely use all of the provided data sets, this way we can get a well-rounded comparison of different KPIs of each needstate. 
+
+Do you plan to use external data to aid your analysis(references)?  
+	We plan on utilizing external data to aid us in reaffirming and analyzing our analysis.  We will mainly be using external data to better understand the consumer base. This involves looking at who (income, gender etc.) to sell to and where to sell to these people. This will also help us optimize marketing budgets and strategy. We will also utilize external data to research the seasonality of certain products. All this will aid in us in ensuring we have done a thorough analysis of the market and better our findings and suggestions. 
+	If we are able to find data of the specific products we are marketing we can conduct a much thorough analysis in terms of geographic marketing and seasonality. However, if the products remain unnamed, we will be conducting a much more general external research and analysis process. 
+
+What technologies are involved (software, packages/libraries, techniques)?
+	We will be utilizing primarily Python. Within Python we will be using libraries such as Pandas, scikit, NumPy etc. We will be using techniques such as regressions, data cleaning, and web scraping.
+	We will be gathering data from the university library, specifically with Passport. We will also be using PowerPoint and potentially forums such as stack overflow. 
